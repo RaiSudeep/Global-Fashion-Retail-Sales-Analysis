@@ -2,7 +2,13 @@
 
 ## 🔗 Source: Kaggle Dataset  
 **Global Fashion Retail Analytics Dataset**  
-[📂 Kaggle Dataset](https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset/data)  
+[🔗 Kaggle Dataset](https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset/data)  
+
+## 📂 Dataset Download
+Due to file size restrictions on GitHub, the dataset is stored externally.  
+**Zip File Size:** 223 MB  
+[📂 Download Dataset Here](https://drive.google.com/drive/folders/1il8KN_5F6H0wl_hABbkkW_IgEUrQYHOD?usp=drive_link)
+
 
 ### 📝 **Dataset Overview**
 This synthetic dataset simulates **two years of transactional data** from a multinational fashion retailer, featuring:
