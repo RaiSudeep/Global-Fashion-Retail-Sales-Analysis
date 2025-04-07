@@ -152,18 +152,24 @@ By leveraging **structured SQL analysis**, businesses can refine their **marketi
 ## 📌 How to Use This Analysis
 ### **SQL-Based Queries (MySQL)**
 ### 1️⃣ **Clone the Repository**  
+```sh
 git clone https://github.com/RaiSudeep/Global-Fashion-Retail-Sales-Analysis.git   
 cd Global-Fashion-Retail-Sales-Analysis
+```
 
 ### 2️⃣ **Set Up Database & Clean Data**
 **First, create the database schema and import the datasets:**    
+```sh
 SOURCE queries/schema_setup.sql;
+```
 
 ### 3️⃣ **Run SQL Queries**
 **After setting up the database, run analysis queries:**    
+```sh
 -- Example: Running Basic KPIs Query  
 USE global_fashion_retail_sales_analysis;  
 SOURCE queries/Basic_KPIs.sql; 
+```
 
 ### 4️⃣ **Analyze Insights**  
 🔹 **Review Schema & Data Cleaning (queries/schema_setup.sql)**  
