@@ -29,8 +29,11 @@ This dataset provides a **rich foundation for retail analytics**, including **cu
 ---
 
 ## 📝 Introduction
-Fashion retail businesses generate a vast amount of transactional data every day. **Analyzing this data** helps retailers understand **customer retention, product performance, revenue trends, and employee efficiency**, enabling better business strategies.  
-This project uses **SQL queries** to clean, process, and generate **insights from a structured database**.
+
+Fashion retail businesses generate a vast amount of transactional data every day. **Analyzing this data** helps retailers understand **customer retention, product performance, revenue trends, and employee efficiency**, enabling better business strategies.      
+
+This project uses **SQL queries** to clean, process, and generate **insights from a structured database**, and leverages **Power BI** to create interactive dashboards that visualize key trends and metrics. These visualizations help stakeholders quickly interpret data, monitor performance, and make data-driven decisions with greater clarity and confidence.
+
 
 ---
 
@@ -108,6 +111,7 @@ This section focuses on **interactive data visualization** using **Power BI**.
 🔹 **Waterfall Chart** → **Yearly Revenue Growth Trends**  
 🔹 **Bar Chart** → **Global Sales Performance (Country-Wise Breakdown)**  
 🔹 **Line Chart** → **Revenue Analysis (Monthly Trends & Insights**  
+
    ✅ **Tooltip:** **Hover to view Product Sub-Category Performance insights.**  
 
 ---
@@ -201,7 +205,10 @@ SOURCE queries/Basic_KPIs.sql;
 ---
 
 ## 📷 Screenshots
+### Dashboard
 ![image](https://github.com/user-attachments/assets/e377fec2-a122-450c-8322-00d60acfb9ba)
+
+### Tooltip
 ![image](https://github.com/user-attachments/assets/30f4dffa-e68a-43e3-a6bd-544bbb9e500b)
 
 ---
