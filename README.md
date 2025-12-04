@@ -44,12 +44,10 @@ SQL was used to clean, join, and transform raw tables into analysis-ready views.
 ## ❓ Problem Statement  
 How can a global fashion retailer use transactional data to improve customer retention, optimise pricing, 
 and identify high-performing stores and products?
-
-As fashion retail businesses generate a vast amount of transactional data every day. **Analysing this data** 
+- As fashion retail businesses generate a vast amount of transactional data every day. **Analysing such data** 
 helps retailers understand **customer retention, product performance, revenue trends, and employee efficiency**, 
 enabling better business strategies.      
-
-This project uses **SQL queries** to clean, process, and generate **insights from a structured database**, and 
+- In this project I used **SQL queries** to clean, process, and generate **insights from a structured database** and 
 leverages **Power BI** to create interactive dashboards that visualise key trends and metrics. These visualisations 
 help stakeholders quickly interpret data, monitor performance, and make data-driven decisions with greater clarity and confidence.
 
