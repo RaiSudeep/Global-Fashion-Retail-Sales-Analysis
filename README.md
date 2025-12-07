@@ -12,7 +12,14 @@
 This project analyses **24 months of global retail sales data** across multiple regions and product
 categories to identify revenue drivers, underperforming segments, and supply chain optimisation opportunities. 
 
- ---
+---
+ ## ❓ Problem Statement  
+Global fashion retailers operate in highly competitive markets where customer loyalty, pricing strategies, and store performance directly impact profitability. Transactional sales data offers a powerful lens into these dynamics, capturing purchase behaviour, discount effectiveness, and product demand across regions.  
+
+This project addresses the challenge:  
+**_How can a global fashion retailer use transactional data to improve customer retention, optimise pricing, and identify high‑performing stores and products?_**
+
+---
 ## 📊 Dashboard Preview  
 ### Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/e377fec2-a122-450c-8322-00d60acfb9ba)
@@ -55,13 +62,6 @@ SQL was used to clean, join, and transform raw tables into analysis-ready views.
 📁 See the [`/queries`](./queries) folder for:
 - `schema_setup.sql`: Database initialisation.  
 - `Basic_KPIs.sql`, `Intermediate_KPIs.sql`, `Advanced_KPIs.sql`: Business logic and insights.  
-
----
-## ❓ Problem Statement  
-Global fashion retailers operate in highly competitive markets where customer loyalty, pricing strategies, and store performance directly impact profitability. Transactional sales data offers a powerful lens into these dynamics, capturing purchase behaviour, discount effectiveness, and product demand across regions.  
-
-This project addresses the challenge:  
-**_How can a global fashion retailer use transactional data to improve customer retention, optimise pricing, and identify high‑performing stores and products?_**
 
 ---
 ## 💡 Key Insights  
